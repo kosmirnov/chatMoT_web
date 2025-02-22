@@ -58,7 +58,7 @@ print(response.text)
 5. Make a copy of the example environment variables file:
 
    ```bash
-   $ cp .env.example .env
+   $ cp .env .env
    ```
 
 6. Add your [API key](https://ai.google.dev/gemini-api/docs/api-key) to the newly created `.env` file or as an environment variable.
